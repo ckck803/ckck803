@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=spring-website)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=sample-board)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-cloud)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-security)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-security)](https://github.com/ckck803/study-spring-security)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-jpa)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-react)](https://github.com/anuraghazra/github-readme-stats)
 
