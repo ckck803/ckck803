@@ -8,12 +8,12 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckck803)](https://solved.ac/이름)
 
 ## My Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=spring-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=spring-website)](https://github.com/ckck803/spring-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=sample-board)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-cloud)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-cloud)](https://github.com/ckck803/study-spring-cloud)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-security)](https://github.com/ckck803/study-spring-security)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-jpa)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-spring-jpa)](https://github.com/ckck803/study-spring-jpa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ckck803&repo=study-react)](https://github.com/ckck803/study-react)
 
 
 
